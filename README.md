@@ -1,17 +1,11 @@
 <!--
 GUIA RÁPIDO:
 
-Crie uma imagem de banner (use o site Canva.com, é grátis). O tamanho 1200x400 pixels fica bom.
+O seu banner já está no lugar!
 
-Faça o upload dessa imagem no seu repositório do perfil.
+Agora, substitua os textos como "SEU_USUARIO_DO_LINKEDIN", "SUA_UNIVERSIDADE", etc., com suas informações.
 
-Clique na imagem e copie o endereço dela.
-
-Cole o endereço da imagem onde está escrito "URL_DO_SEU_BANNER.png".
-
-Substitua todos os outros textos como "SEU_NOME", "SEU_USUARIO_DO_LINKEDIN", etc.
-
-Nos links de disciplinas e "ETC", troque "#" pelo link do seu repositório ou site.
+Nos links de disciplinas e "ETC", troque o "#" pelo link do seu projeto ou site.
 -->
 
 <!-- Bloco 1: Banner -->
@@ -20,7 +14,7 @@ Nos links de disciplinas e "ETC", troque "#" pelo link do seu repositório ou si
 <img src="https://github.com/erikfiliper/erikfiliper/blob/main/Banner%20para%20github.png?raw=true" alt="Banner do Perfil">
 </p>
 
-<!-- Bloco 2: Badges de Redes Sociais (Corrigido com as cores do Cruzeiro) -->
+<!-- Bloco 2: Badges de Redes Sociais -->
 
 <p align="center">
 <a href="https://www.google.com/search?q=https://www.linkedin.com/in/SEU_USUARIO_DO_LINKEDIN" target="_blank">
@@ -57,6 +51,9 @@ Nos links de disciplinas e "ETC", troque "#" pelo link do seu repositório ou si
 
 <a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/NOME DA DISCIPLINA-ASSUNTO-363636?style=flat-square"></a>
 <a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/NOME DA DISCIPLINA-ASSUNTO-2E8B57?style=flat-square"></a>
+
+
+
 
 <!-- Bloco 5: ETC -->
 
