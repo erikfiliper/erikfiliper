@@ -40,13 +40,13 @@ Nos links de disciplinas e "ETC", troque "#" pelo link do seu repositório ou si
 <!-- Bloco 3: Sobre Mim -->
 
 <p align="left">
-👨‍🏫&nbsp;&nbsp;<strong>Professor de Computação</strong>&nbsp;
+👨‍🏫&nbsp;&nbsp;<strong>Desginer Gráfico e Desenvolvedor</strong>&nbsp;
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Instituto%2520Federal%2520do%2520Norte%2520de%2520Minas%2520Gerais%2520/%2520IFNMG-363636%3Fstyle%3Dflat-square">
 <br><br>
-🎓&nbsp;&nbsp;<strong>Bacharel em Sistemas de Informação</strong>&nbsp;
+🎓&nbsp;&nbsp;<strong>Bacharelando em Sistemas de Informação</strong>&nbsp;
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Universidade%2520Estadual%2520de%2520Montes%2520Claros%2520/%2520Unimontes-363636%3Fstyle%3Dflat-square">
 <br><br>
-🚀&nbsp;&nbsp;<strong>Mestre em Computação / Redes de Computadores e Sistemas Distribuídos</strong>&nbsp;
+🚀&nbsp;&nbsp;<strong>Estudante em Designer Gráfico / Desenvolvedor de Sistemas e Web Design</strong>&nbsp;
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Universidade%2520Federal%2520Fluminense%2520/%2520UFF-363636%3Fstyle%3Dflat-square">
 </p>
 
