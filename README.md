@@ -9,9 +9,9 @@
 
 [<img src="https://osman144.github.io/DragonBall-Z-game/assets/images/goku.gif" width="50" height="50">](#) **Professor de Computação** ` Instituto Federal do Norte de Minas Gerais / IFNMG ` <br />
 
-[<img src="https://osman144.github.io/DragonBall-Z-game/assets/images/vegeta.gif" width="50" height="50">](#) **Bacharel em Sistemas de Informação** ` Universidade Estadual de Montes Claros / Unimontes ` <br />
+[<img src="https://osman144.github.io/DragonBall-Z-game/assets/images/vegeta.gif" width="40" height="40">](#) **Bacharel em Sistemas de Informação** ` Universidade Estadual de Montes Claros / Unimontes ` <br />
 
-[<img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/vader3.gif" height="30">](#) **Mestre em Computação / Redes de Computadores e Sistemas Distribuídos** ` Universidade Federal Fluminense / UFF `
+[<img src="https://osman144.github.io/DragonBall-Z-game/assets/images/piccolo.gif" height="30">](#) **Mestre em Computação / Redes de Computadores e Sistemas Distribuídos** ` Universidade Federal Fluminense / UFF `
 
 
 
