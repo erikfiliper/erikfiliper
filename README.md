@@ -1,3 +1,19 @@
+<!--
+GUIA RÁPIDO:
+
+Crie uma imagem de banner (use o site Canva.com, é grátis). O tamanho 1200x400 pixels fica bom.
+
+Faça o upload dessa imagem no seu repositório do perfil.
+
+Clique na imagem e copie o endereço dela.
+
+Cole o endereço da imagem onde está escrito "URL_DO_SEU_BANNER.png".
+
+Substitua todos os outros textos como "SEU_NOME", "SEU_USUARIO_DO_LINKEDIN", etc.
+
+Nos links de disciplinas e "ETC", troque "#" pelo link do seu repositório ou site.
+-->
+
 <!-- Bloco 1: Banner -->
 
 <p align="center">
@@ -13,38 +29,52 @@
 <a href="https://www.google.com/search?q=https://instagram.com/SEU_USUARIO_DO_INSTAGRAM" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/-Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite">
 </a>
+<a href="https://www.google.com/search?q=https://youtube.com/c/SEU_CANAL_YOUTUBE" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/-YouTube-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3Dwhite">
+</a>
 <a href="mailto:SEU_EMAIL@exemplo.com">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/-Gmail-333%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite">
 </a>
 </p>
 
-<!-- Bloco 3: Sobre Mim (Novo Estilo) -->
-
-👋 Olá! Eu sou o [SEU NOME]
-<p>
-Sou um desenvolvedor e entusiasta de tecnologia focado em [SUA ÁREA DE INTERESSE, ex: Desenvolvimento Web, Análise de Dados, etc.]. Atualmente, estou trabalhando em projetos com [NOME DE UMA TECNOLOGIA] e sempre buscando aprender coisas novas.
-</p>
-
-<!-- Para replicar o estilo que você gostou, edite as linhas abaixo. -->
-
-<!-- DICA: para os textos dos badges (escritos em cinza) use '%20' no lugar de espaços. Ex: "Universidade%20de%20São%20Paulo" -->
+<!-- Bloco 3: Sobre Mim -->
 
 <p align="left">
-👨‍🏫&nbsp;&nbsp;<strong>Professor de [Sua Matéria]</strong>&nbsp;
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Nome%2520da%2520Institui%C3%A7%C3%A3o-363636%3Fstyle%3Dflat-square">
+👨‍🏫&nbsp;&nbsp;<strong>Professor de Computação</strong>&nbsp;
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instituto%2520Federal%2520do%2520Norte%2520de%2520Minas%2520Gerais%2520/%2520IFNMG-363636%3Fstyle%3Dflat-square">
 <br><br>
-🎓&nbsp;&nbsp;<strong>Bacharel em [Seu Curso]</strong>&nbsp;
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/[Sua%20Universidade]-363636?style=flat-square">
+🎓&nbsp;&nbsp;<strong>Bacharel em Sistemas de Informação</strong>&nbsp;
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Universidade%2520Estadual%2520de%2520Montes%2520Claros%2520/%2520Unimontes-363636%3Fstyle%3Dflat-square">
 <br><br>
-🚀&nbsp;&nbsp;<strong>Mestre em [Sua Área]</strong>&nbsp;
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/[Sua%20Universidade%20do%20Mestrado]-363636?style=flat-square">
+🚀&nbsp;&nbsp;<strong>Mestre em Computação / Redes de Computadores e Sistemas Distribuídos</strong>&nbsp;
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Universidade%2520Federal%2520Fluminense%2520/%2520UFF-363636%3Fstyle%3Dflat-square">
 </p>
 
-<!-- Bloco 4: Tecnologias e Ferramentas -->
+<!-- Bloco 4: Disciplinas -->
+
+📚 DISCIPLINAS
+<!-- DICA: para os textos dos badges use '%20' no lugar de espaços. -->
+
+<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/SISTEMAS DE INFORMAÇÃO-ESTRUTURAS DE DADOS 1-363636?style=flat-square"></a>
+<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/SISTEMAS DE INFORMAÇÃO-REDES DE COMPUTADORES-2E8B57?style=flat-square"></a>
+<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/SISTEMAS DE INFORMAÇÃO-SISTEMAS DISTRIBUÍDOS-363636?style=flat-square"></a>
+<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/SISTEMAS DE INFORMAÇÃO-ESTRUTURAS DE DADOS 2-363636?style=flat-square"></a>
+<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/SISTEMAS DE INFORMAÇÃO-ADMINISTRAÇÃO DE REDES-363636?style=flat-square"></a>
+
+<!-- Bloco 5: ETC -->
+
+<p align="left">
+<strong>ETC ></strong>&nbsp;
+<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Disserta%C3%A7%C3%B5es-0077B5%3Fstyle%3Dflat-square%26logoColor%3Dwhite"></a>
+<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Fundamentos%2520Eletr%C3%B4nica-0077B5%3Fstyle%3Dflat-square%26logoColor%3Dwhite"></a>
+<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/CPRM%252015-0077B5%3Fstyle%3Dflat-square%26logoColor%3Dwhite"></a>
+<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GoZone-0077B5%3Fstyle%3Dflat-square%26logoColor%3Dwhite"></a>
+</p>
+
+<!-- Bloco 6: Tecnologias e Ferramentas -->
 
 🛠️ Tecnologias que eu uso
 <p align="left">
-<!-- Adicione ou remova ícones conforme o que você usa. Procure mais em: https://devicon.dev/ -->
 <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
 <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode" title="VSCode"/>
 <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
@@ -54,7 +84,7 @@ Sou um desenvolvedor e entusiasta de tecnologia focado em [SUA ÁREA DE INTERESS
 <img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js"/>
 </p>
 
-<!-- Bloco 5: Estatísticas do GitHub (Opcional, mas fica legal!) -->
+<!-- Bloco 7: Estatísticas do GitHub -->
 
 📊 Minhas Estatísticas no GitHub
 <p align="center">
