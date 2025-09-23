@@ -17,7 +17,7 @@ Nos links de disciplinas e "ETC", troque "#" pelo link do seu repositório ou si
 <!-- Bloco 1: Banner -->
 
 <p align="center">
-<img src="(https://github.com/erikfiliper/erikfiliper/blob/main/Banner%20para%20github.png?raw=true)" alt="Banner do Perfil">
+<img src="https://github.com/erikfiliper/erikfiliper/blob/main/Banner%20para%20github.png?raw=true" alt="Banner do Perfil">
 </p>
 
 <!-- Bloco 2: Badges de Redes Sociais -->
