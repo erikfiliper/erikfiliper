@@ -1,5 +1,3 @@
--->
-
 <!-- Bloco 1: Banner -->
 
 <p align="center">
@@ -20,22 +18,29 @@
 </a>
 </p>
 
-<!-- Bloco 3: Sobre Mim -->
+<!-- Bloco 3: Sobre Mim (Novo Estilo) -->
 
-👋 Olá! Eu sou o Erik Filipe Rodrigues.
+👋 Olá! Eu sou o [SEU NOME]
 <p>
-Sou um desenvolvedor, designer e entusiasta de tecnologia focado em Desenvolvimento Web, Social Media e Design Esportivo. Atualmente, estou trabalhando em projetos e sempre buscando aprender coisas novas.
+Sou um desenvolvedor e entusiasta de tecnologia focado em [SUA ÁREA DE INTERESSE, ex: Desenvolvimento Web, Análise de Dados, etc.]. Atualmente, estou trabalhando em projetos com [NOME DE UMA TECNOLOGIA] e sempre buscando aprender coisas novas.
 </p>
 
-🎓 Cursando SISTEMAS DE INFORMAÇÃO no INSTITUTO FEDERAL DO NORTE DE MINAS GERAIS - Campus Januária.
+<!-- Para replicar o estilo que você gostou, edite as linhas abaixo. -->
 
-🌱 Estudando no momento: Estrutura de Dados & Banco de Dados.
+<!-- DICA: para os textos dos badges (escritos em cinza) use '%20' no lugar de espaços. Ex: "Universidade%20de%20São%20Paulo" -->
 
-📫 Fale comigo pelo e-mail: erikfilipedesigner@gmail.com.
+<p align="left">
+👨‍🏫&nbsp;&nbsp;<strong>Professor de [Sua Matéria]</strong>&nbsp;
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Nome%2520da%2520Institui%C3%A7%C3%A3o-363636%3Fstyle%3Dflat-square">
+<br><br>
+🎓&nbsp;&nbsp;<strong>Bacharel em [Seu Curso]</strong>&nbsp;
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/[Sua%20Universidade]-363636?style=flat-square">
+<br><br>
+🚀&nbsp;&nbsp;<strong>Mestre em [Sua Área]</strong>&nbsp;
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/[Sua%20Universidade%20do%20Mestrado]-363636?style=flat-square">
+</p>
 
-😄 Pronomes: Ele/Dele
-
-<!-- Bloco 4: Tecnologias e Ferramientas -->
+<!-- Bloco 4: Tecnologias e Ferramentas -->
 
 🛠️ Tecnologias que eu uso
 <p align="left">
