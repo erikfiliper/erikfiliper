@@ -1,7 +1,6 @@
 # <a href="https://github.com/adrianoifnmg"><img src="icons/logo.png#gh-light-mode-only"></a>
 
 [![image](https://img.shields.io/badge/Instagram-BF31A2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erikfiliper/) [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/erik.wendel.rp/) [![image](https://img.shields.io/badge/LinkedIn-1E8293?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-filipe-201a38194/)
-[![image](https://img.shields.io/static/v1?label=&message=LATTES&color=1c4428&logo=Letterboxd&style=for-the-badge&logoColor=white)](http://lattes.cnpq.br/6880454931131515)
 
 [![batman](https://github.com/mlteal/custom-emoji/blob/master/batman.gif)](#) **Professor de Computação** ` Instituto Federal do Norte de Minas Gerais / IFNMG ` <br />
 [<img src="https://github.com/mlteal/custom-emoji/blob/master/woohoo.gif" width="30" height="30">](#) **Bacharel em Sistemas de Informação** ` Universidade Estadual de Montes Claros / Unimontes ` <br />
