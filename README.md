@@ -23,16 +23,16 @@ Nos links de disciplinas e "ETC", troque "#" pelo link do seu repositório ou si
 <!-- Bloco 2: Badges de Redes Sociais -->
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/SEU_USUARIO_DO_LINKEDIN" target="_blank">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/erikfiliper" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite">
 </a>
-<a href="https://www.google.com/search?q=https://instagram.com/SEU_USUARIO_DO_INSTAGRAM" target="_blank">
+<a href="https://www.google.com/search?q=https://instagram.com/erikfiliper" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/-Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite">
 </a>
-<a href="https://www.google.com/search?q=https://youtube.com/c/SEU_CANAL_YOUTUBE" target="_blank">
+<a href="https://www.google.com/search?q=https://youtube.com/c/Erik Filipe" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/-YouTube-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3Dwhite">
 </a>
-<a href="mailto:SEU_EMAIL@exemplo.com">
+<a href="mailto:erikfilipe2005L@gmail.com">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/-Gmail-333%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite">
 </a>
 </p>
