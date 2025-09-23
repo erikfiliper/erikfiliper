@@ -1,5 +1,6 @@
-<a><href="https://github.com/erikfiliper/erikfiliper/blob/main/images/Banner%20para%20github.png?raw=true"></a>
-
+<p align="center">
+<img src="https://github.com/erikfiliper/erikfiliper/blob/main/images/Banner%20para%20github.png?raw=true" alt="Banner do Perfil">
+</p>
 
 
 [![image](https://img.shields.io/badge/Instagram-BF31A2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erikfiliper/) [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/erik.wendel.rp/) [![image](https://img.shields.io/badge/LinkedIn-1E8293?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-filipe-201a38194/)
