@@ -23,16 +23,16 @@ Nos links de disciplinas e "ETC", troque "#" pelo link do seu repositório ou si
 <!-- Bloco 2: Badges de Redes Sociais -->
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/erikfiliper" target="_blank">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/SEU_USUARIO_DO_LINKEDIN" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite">
 </a>
-<a href="https://www.google.com/search?q=https://instagram.com/erikfiliper" target="_blank">
+<a href="https://www.google.com/search?q=https://instagram.com/SEU_USUARIO_DO_INSTAGRAM" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/-Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite">
 </a>
-<a href="https://www.google.com/search?q=https://youtube.com/c/Erik Filipe" target="_blank">
+<a href="https://www.google.com/search?q=https://youtube.com/c/SEU_CANAL_YOUTUBE" target="_blank">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/-YouTube-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3Dwhite">
 </a>
-<a href="mailto:erikfilipe2005L@gmail.com">
+<a href="mailto:SEU_EMAIL@exemplo.com">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/-Gmail-333%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite">
 </a>
 </p>
@@ -40,14 +40,14 @@ Nos links de disciplinas e "ETC", troque "#" pelo link do seu repositório ou si
 <!-- Bloco 3: Sobre Mim -->
 
 <p align="left">
-👨‍🏫&nbsp;&nbsp;<strong>Desginer Gráfico e Desenvolvedor</strong>&nbsp;
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instituto%2520Federal%2520do%2520Norte%2520de%2520Minas%2520Gerais%2520/%2520IFNMG-363636%3Fstyle%3Dflat-square">
+👨‍🏫&nbsp;&nbsp;<strong>Designer Gráfico e Desenvolvedor</strong>&nbsp;
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SUA_DESCRI%C3%87%C3%83O_AQUI-363636%3Fstyle%3Dflat-square">
 <br><br>
 🎓&nbsp;&nbsp;<strong>Bacharelando em Sistemas de Informação</strong>&nbsp;
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Universidade%2520Estadual%2520de%2520Montes%2520Claros%2520/%2520Unimontes-363636%3Fstyle%3Dflat-square">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SUA_UNIVERSIDADE-363636%3Fstyle%3Dflat-square">
 <br><br>
 🚀&nbsp;&nbsp;<strong>Estudante em Designer Gráfico / Desenvolvedor de Sistemas e Web Design</strong>&nbsp;
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Universidade%2520Federal%2520Fluminense%2520/%2520UFF-363636%3Fstyle%3Dflat-square">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/FOCO_DOS_ESTUDOS-363636%3Fstyle%3Dflat-square">
 </p>
 
 <!-- Bloco 4: Disciplinas -->
@@ -55,20 +55,15 @@ Nos links de disciplinas e "ETC", troque "#" pelo link do seu repositório ou si
 📚 DISCIPLINAS
 <!-- DICA: para os textos dos badges use '%20' no lugar de espaços. -->
 
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/SISTEMAS DE INFORMAÇÃO-ESTRUTURAS DE DADOS 1-363636?style=flat-square"></a>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/SISTEMAS DE INFORMAÇÃO-REDES DE COMPUTADORES-2E8B57?style=flat-square"></a>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/SISTEMAS DE INFORMAÇÃO-SISTEMAS DISTRIBUÍDOS-363636?style=flat-square"></a>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/SISTEMAS DE INFORMAÇÃO-ESTRUTURAS DE DADOS 2-363636?style=flat-square"></a>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/SISTEMAS DE INFORMAÇÃO-ADMINISTRAÇÃO DE REDES-363636?style=flat-square"></a>
+<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/NOME DA DISCIPLINA-ASSUNTO-363636?style=flat-square"></a>
+<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/NOME DA DISCIPLINA-ASSUNTO-2E8B57?style=flat-square"></a>
 
 <!-- Bloco 5: ETC -->
 
 <p align="left">
 <strong>ETC ></strong>&nbsp;
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Disserta%C3%A7%C3%B5es-0077B5%3Fstyle%3Dflat-square%26logoColor%3Dwhite"></a>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Fundamentos%2520Eletr%C3%B4nica-0077B5%3Fstyle%3Dflat-square%26logoColor%3Dwhite"></a>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/CPRM%252015-0077B5%3Fstyle%3Dflat-square%26logoColor%3Dwhite"></a>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/GoZone-0077B5%3Fstyle%3Dflat-square%26logoColor%3Dwhite"></a>
+<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Item%25201-0077B5%3Fstyle%3Dflat-square%26logoColor%3Dwhite"></a>
+<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Item%25202-0077B5%3Fstyle%3Dflat-square%26logoColor%3Dwhite"></a>
 </p>
 
 <!-- Bloco 6: Tecnologias e Ferramentas -->
