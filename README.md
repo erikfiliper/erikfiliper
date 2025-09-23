@@ -1,87 +1,34 @@
-<!--
-GUIA RÁPIDO:
+# <a href="https://github.com/adrianoifnmg"><img src="icons/logo.png#gh-light-mode-only"></a>
 
-O seu banner já está no lugar!
+[![image](https://img.shields.io/badge/Instagram-BF31A2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adrianoantunesp/) [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/adrianoantunesp/) [![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@estruturasdedados1) [![image](https://img.shields.io/badge/LinkedIn-1E8293?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianoantunesp/)
+[![image](https://img.shields.io/static/v1?label=&message=LATTES&color=1c4428&logo=Letterboxd&style=for-the-badge&logoColor=white)](http://lattes.cnpq.br/6880454931131515)
 
-Agora, substitua os textos como "SEU_USUARIO_DO_LINKEDIN", "SUA_UNIVERSIDADE", etc., com suas informações.
+[![batman](https://github.com/mlteal/custom-emoji/blob/master/batman.gif)](#) **Professor de Computação** ` Instituto Federal do Norte de Minas Gerais / IFNMG ` <br />
+[<img src="https://github.com/mlteal/custom-emoji/blob/master/woohoo.gif" width="30" height="30">](#) **Bacharel em Sistemas de Informação** ` Universidade Estadual de Montes Claros / Unimontes ` <br />
+[<img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/vader3.gif" height="30">](#) **Mestre em Computação / Redes de Computadores e Sistemas Distribuídos** ` Universidade Federal Fluminense / UFF `
 
-Nos links de disciplinas e "ETC", troque o "#" pelo link do seu projeto ou site.
--->
+## *🄳🄸🅂🄲🄸🄿🄻🄸🄽🄰🅂*
 
-<!-- Bloco 1: Banner -->
+[![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_ESTRUTURAS_DE_DADOS_1_-21842e)](https://github.com/adrianoifnmg/EstruturasDeDados1)
+<br />
+[![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_REDES_DE_COMPUTADORES_-21842e)](https://github.com/adrianoifnmg/RedesComputadores) 
+<br /> 
+[![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_SISTEMAS_DISTRIBUÍDOS_-21842e)](https://github.com/adrianoifnmg/SistemasDistribuidos)
+<br /> 
+[![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_ESTRUTURAS_DE_DADOS_2_-E7ECF0)](https://github.com/adrianoifnmg/EstruturasDeDados2)
+<br /> 
+[![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_ADMINISTRAÇÃO_DE_REDES_-E7ECF0)](https://github.com/adrianoifnmg/AdministracaoRedes)
 
-<p align="center">
-<img src="https://github.com/erikfiliper/erikfiliper/blob/main/Banner%20para%20github.png?raw=true" alt="Banner do Perfil">
-</p>
+**`ETC $> `**
+[`Dissertações`](https://github.com/adrianoifnmg/Dissertacoes) 
+[`Fundamentos Eletrônica`](https://github.com/adrianoifnmg/FundamentosEletronica) 
+[`CPBR 15`](https://github.com/adrianoifnmg/CampusParty15)
+[`GeoZone`](https://github.com/adrianoifnmg/geozone)
 
-<!-- Bloco 2: Badges de Redes Sociais -->
 
-<p align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/SEU_USUARIO_DO_LINKEDIN" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-LinkedIn-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite">
-</a>
-<a href="https://www.google.com/search?q=https://instagram.com/SEU_USUARIO_DO_INSTAGRAM" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Instagram-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite">
-</a>
-<a href="https://www.google.com/search?q=https://youtube.com/c/SEU_CANAL_YOUTUBE" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-YouTube-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3Dwhite">
-</a>
-<a href="mailto:SEU_EMAIL@exemplo.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Gmail-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite">
-</a>
-</p>
-
-<!-- Bloco 3: Sobre Mim -->
-
-<p align="left">
-👨‍🏫&nbsp;&nbsp;<strong>Designer Gráfico e Desenvolvedor</strong>&nbsp;
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SUA_DESCRI%C3%87%C3%83O_AQUI-363636%3Fstyle%3Dflat-square">
-<br><br>
-🎓&nbsp;&nbsp;<strong>Bacharelando em Sistemas de Informação</strong>&nbsp;
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SUA_UNIVERSIDADE-363636%3Fstyle%3Dflat-square">
-<br><br>
-🚀&nbsp;&nbsp;<strong>Estudante em Designer Gráfico / Desenvolvedor de Sistemas e Web Design</strong>&nbsp;
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/FOCO_DOS_ESTUDOS-363636%3Fstyle%3Dflat-square">
-</p>
-
-<!-- Bloco 4: Disciplinas -->
-
-📚 DISCIPLINAS
-<!-- DICA: para os textos dos badges use '%20' no lugar de espaços. -->
-
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/NOME DA DISCIPLINA-ASSUNTO-363636?style=flat-square"></a>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/NOME DA DISCIPLINA-ASSUNTO-2E8B57?style=flat-square"></a>
+##
+[![My Skills](https://skillicons.dev/icons?i=devto,linux,py,c,js,fastapi,php,mysql,bash,vscode,aws,rabbitmq,nginx,docker,git&theme=light)](#)
 
 
 
-
-<!-- Bloco 5: ETC -->
-
-<p align="left">
-<strong>ETC ></strong>&nbsp;
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Item%25201-0077B5%3Fstyle%3Dflat-square%26logoColor%3Dwhite"></a>
-<a href="#"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Item%25202-0077B5%3Fstyle%3Dflat-square%26logoColor%3Dwhite"></a>
-</p>
-
-<!-- Bloco 6: Tecnologias e Ferramentas -->
-
-🛠️ Tecnologias que eu uso
-<p align="left">
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode" title="VSCode"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/>
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js"/>
-</p>
-
-<!-- Bloco 7: Estatísticas do GitHub -->
-
-📊 Minhas Estatísticas no GitHub
-<p align="center">
-<a href="https://www.google.com/search?q=https://github.com/SEU_USUARIO_DO_GITHUB">
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSEU_USUARIO_DO_GITHUB%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DSEU_USUARIO_DO_GITHUB%26layout%3Dcompact%26langs_count%3D7%26theme%3Ddracula"/>
-</a>
-</p>
+<a href="#"><img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/dino.gif" align="center"></a>
