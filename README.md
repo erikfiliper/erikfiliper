@@ -1,34 +1,63 @@
-# <a href="https://github.com/adrianoifnmg"><img src="icons/logo.png#gh-light-mode-only"></a>
+<!-- Bloco 1: Logo (Opcional) -->
 
-[![image](https://img.shields.io/badge/Instagram-BF31A2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adrianoantunesp/) [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/adrianoantunesp/) [![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@estruturasdedados1) [![image](https://img.shields.io/badge/LinkedIn-1E8293?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianoantunesp/)
-[![image](https://img.shields.io/static/v1?label=&message=LATTES&color=1c4428&logo=Letterboxd&style=for-the-badge&logoColor=white)](http://lattes.cnpq.br/6880454931131515)
+<!-- <a href="https://www.google.com/search?q=https://github.com/SEU_USUARIO"><img src="URL_DA_SUA_LOGO.png"></a> -->
 
-[![batman](https://github.com/mlteal/custom-emoji/blob/master/batman.gif)](#) **Professor de Computação** ` Instituto Federal do Norte de Minas Gerais / IFNMG ` <br />
-[<img src="https://github.com/mlteal/custom-emoji/blob/master/woohoo.gif" width="30" height="30">](#) **Bacharel em Sistemas de Informação** ` Universidade Estadual de Montes Claros / Unimontes ` <br />
-[<img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/vader3.gif" height="30">](#) **Mestre em Computação / Redes de Computadores e Sistemas Distribuídos** ` Universidade Federal Fluminense / UFF `
+<!-- Bloco 2: Redes Sociais com as cores do Cruzeiro -->
 
-## *🄳🄸🅂🄲🄸🄿🄻🄸🄽🄰🅂*
+<p align="center">
+<a href="https://www.google.com/search?q=https://www.instagram.com/SEU_USUARIO_INSTAGRAM/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite">
+</a>
+<a href="https://www.google.com/search?q=https://www.facebook.com/SEU_USUARIO_FACEBOOK/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Facebook-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dfacebook%26logoColor%3Dwhite">
+</a>
+<a href="https://www.google.com/search?q=https://www.youtube.com/%40SEU_CANAL_YOUTUBE">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3Dwhite">
+</a>
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/SEU_USUARIO_LINKEDIN/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite">
+</a>
+<a href="URL_DO_SEU_LATTES">
+<img src="https://www.google.com/search?q=https://img.shields.io/static/v1%3Flabel%3D%26message%3DLATTES%26color%3D00599C%26logo%3DLetterboxd%26style%3Dfor-the-badge%26logoColor%3Dwhite">
+</a>
+</p>
 
-[![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_ESTRUTURAS_DE_DADOS_1_-21842e)](https://github.com/adrianoifnmg/EstruturasDeDados1)
+<!-- Bloco 3: Informações Pessoais -->
+
+<p align="left">
+<strong>👨‍🏫 Professor de Computação</strong> <code> Instituto Federal do Norte de Minas Gerais / IFNMG </code> <br />
+<strong>🎓 Bacharel em Sistemas de Informação</strong> <code> Universidade Estadual de Montes Claros / Unimontes </code> <br />
+<strong>🚀 Mestre em Computação / Redes de Computadores e Sistemas Distribuídos</strong> <code> Universidade Federal Fluminense / UFF </code>
+</p>
+
+<!-- Bloco 4: Disciplinas -->
+
+📚 DISCIPLINAS
+<a href="https://github.com/adrianoifnmg/EstruturasDeDados1"><img src="https://www.google.com/search?q=https://img.shields.io/badge/SISTEMAS_DE_INFORMAÇÃO-ESTRUTURAS_DE_DADOS_1-21842e"></a>
 <br />
-[![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_REDES_DE_COMPUTADORES_-21842e)](https://github.com/adrianoifnmg/RedesComputadores) 
-<br /> 
-[![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_SISTEMAS_DISTRIBUÍDOS_-21842e)](https://github.com/adrianoifnmg/SistemasDistribuidos)
-<br /> 
-[![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_ESTRUTURAS_DE_DADOS_2_-E7ECF0)](https://github.com/adrianoifnmg/EstruturasDeDados2)
-<br /> 
-[![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_ADMINISTRAÇÃO_DE_REDES_-E7ECF0)](https://github.com/adrianoifnmg/AdministracaoRedes)
+<a href="https://github.com/adrianoifnmg/RedesComputadores"><img src="https://www.google.com/search?q=https://img.shields.io/badge/SISTEMAS_DE_INFORMAÇÃO-REDES_DE_COMPUTADORES-21842e"></a>
+<br />
+<a href="https://github.com/adrianoifnmg/SistemasDistribuidos"><img src="https://www.google.com/search?q=https://img.shields.io/badge/SISTEMAS_DE_INFORMAÇÃO-SISTEMAS_DISTRIBUÍDOS-21842e"></a>
+<br />
+<a href="https://github.com/adrianoifnmg/EstruturasDeDados2"><img src="https://www.google.com/search?q=https://img.shields.io/badge/SISTEMAS_DE_INFORMAÇÃO-ESTRUTURAS_DE_DADOS_2-E7ECF0"></a>
+<br />
+<a href="https://github.com/adrianoifnmg/AdministracaoRedes"><img src="https://www.google.com/search?q=https://img.shields.io/badge/SISTEMAS_DE_INFORMAÇÃO-ADMINISTRAÇÃO_DE_REDES-E7ECF0"></a>
 
-**`ETC $> `**
-[`Dissertações`](https://github.com/adrianoifnmg/Dissertacoes) 
-[`Fundamentos Eletrônica`](https://github.com/adrianoifnmg/FundamentosEletronica) 
-[`CPBR 15`](https://github.com/adrianoifnmg/CampusParty15)
-[`GeoZone`](https://github.com/adrianoifnmg/geozone)
+<!-- Bloco 5: ETC -->
 
+<p align="left">
+<strong>ETC ></strong>
+<a href="https://github.com/adrianoifnmg/Dissertacoes"><code>Dissertações</code></a>
+<a href="https://github.com/adrianoifnmg/FundamentosEletronica"><code>Fundamentos Eletrônica</code></a>
+<a href="https://github.com/adrianoifnmg/CampusParty15"><code>CPBR 15</code></a>
+<a href="https://github.com/adrianoifnmg/geozone"><code>GeoZone</code></a>
+</p>
 
-##
-[![My Skills](https://skillicons.dev/icons?i=devto,linux,py,c,js,fastapi,php,mysql,bash,vscode,aws,rabbitmq,nginx,docker,git&theme=light)](#)
+<!-- Bloco 6: Tecnologias -->
 
-
-
-<a href="#"><img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/dino.gif" align="center"></a>
+🛠️ Tecnologias
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Ddevto,linux,py,c,js,fastapi,php,mysql,bash,vscode,aws,rabbitmq,nginx,docker,git%26theme%3Ddark" />
+</a>
+</p>
