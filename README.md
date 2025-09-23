@@ -22,18 +22,18 @@
 
 <!-- Bloco 3: Sobre Mim -->
 
-👋 Olá! Eu sou o [SEU NOME]
+👋 Olá! Eu sou o Erik Filipe Rodrigues.
 <p>
-Sou um desenvolvedor e entusiasta de tecnologia focado em [SUA ÁREA DE INTERESSE, ex: Desenvolvimento Web, Análise de Dados, etc.]. Atualmente, estou trabalhando em projetos com [NOME DE UMA TECNOLOGIA] e sempre buscando aprender coisas novas.
+Sou um desenvolvedor, designer e entusiasta de tecnologia focado em Desenvolvimento Web, Social Media e Design Esportivo. Atualmente, estou trabalhando em projetos e sempre buscando aprender coisas novas.
 </p>
 
 🎓 Cursando [SISTEMAS DE INFORMAÇÃO] no [INSTITUTO FEDERAL DO NORTE DE MINAS GERAIS - Campus Januária].
 
 🌱 Estudando no momento: [Estrutura de Dados & Banco de Dados].
 
-📫 Fale comigo pelo e-mail: [SEU_EMAIL@exemplo.com].
+📫 Fale comigo pelo e-mail: erikfilipedesigner@gmail.com.
 
-😄 Pronomes: Ele/Dele ou Ela/Dela
+😄 Pronomes: Ele/Dele
 
 <!-- Bloco 4: Tecnologias e Ferramientas -->
 
