@@ -7,7 +7,7 @@
 
 
 
-[<img src="https://osman144.github.io/DragonBall-Z-game/assets/images/goku.gif" width="30" height="30">](#) **Professor de Computação** ` Instituto Federal do Norte de Minas Gerais / IFNMG ` <br />
+[<img src="https://osman144.github.io/DragonBall-Z-game/assets/images/goku.gif" width="50" height="50">](#) **Professor de Computação** ` Instituto Federal do Norte de Minas Gerais / IFNMG ` <br />
 
 [<img src="https://github.com/mlteal/custom-emoji/blob/master/woohoo.gif" width="30" height="30">](#) **Bacharel em Sistemas de Informação** ` Universidade Estadual de Montes Claros / Unimontes ` <br />
 
