@@ -27,9 +27,9 @@
 Sou um desenvolvedor e entusiasta de tecnologia focado em [SUA ÁREA DE INTERESSE, ex: Desenvolvimento Web, Análise de Dados, etc.]. Atualmente, estou trabalhando em projetos com [NOME DE UMA TECNOLOGIA] e sempre buscando aprender coisas novas.
 </p>
 
-🎓 Formado em [SEU CURSO] na [SUA UNIVERSIDADE].
+🎓 Cursando [SISTEMAS DE INFORMAÇÃO] no [INSTITUTO FEDERAL DO NORTE DE MINAS GERAIS - Campus Januária].
 
-🌱 Estudando no momento: [O QUE VOCÊ ESTÁ APRENDENDO].
+🌱 Estudando no momento: [Estrutura de Dados & Banco de Dados].
 
 📫 Fale comigo pelo e-mail: [SEU_EMAIL@exemplo.com].
 
