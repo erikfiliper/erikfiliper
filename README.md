@@ -27,9 +27,9 @@
 Sou um desenvolvedor, designer e entusiasta de tecnologia focado em Desenvolvimento Web, Social Media e Design Esportivo. Atualmente, estou trabalhando em projetos e sempre buscando aprender coisas novas.
 </p>
 
-🎓 Cursando [SISTEMAS DE INFORMAÇÃO] no [INSTITUTO FEDERAL DO NORTE DE MINAS GERAIS - Campus Januária].
+🎓 Cursando SISTEMAS DE INFORMAÇÃO no INSTITUTO FEDERAL DO NORTE DE MINAS GERAIS - Campus Januária.
 
-🌱 Estudando no momento: [Estrutura de Dados & Banco de Dados].
+🌱 Estudando no momento: Estrutura de Dados & Banco de Dados.
 
 📫 Fale comigo pelo e-mail: erikfilipedesigner@gmail.com.
 
