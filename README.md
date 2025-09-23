@@ -14,46 +14,6 @@
 [<img src="https://osman144.github.io/DragonBall-Z-game/assets/images/piccolo.gif" height="30">](#) **Ceo EF STUDYO** ` DEV & WEB DESIGN `
 
 
-
-
-## *🄳🄸🅂🄲🄸🄿🄻🄸🄽🄰🅂*
-
-
-
-[![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_ESTRUTURAS_DE_DADOS_1_-21842e)](https://github.com/adrianoifnmg/EstruturasDeDados1)
-
-<br />
-
-[![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_REDES_DE_COMPUTADORES_-21842e)](https://github.com/adrianoifnmg/RedesComputadores) 
-
-<br /> 
-
-[![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_SISTEMAS_DISTRIBUÍDOS_-21842e)](https://github.com/adrianoifnmg/SistemasDistribuidos)
-
-<br /> 
-
-[![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_ESTRUTURAS_DE_DADOS_2_-E7ECF0)](https://github.com/adrianoifnmg/EstruturasDeDados2)
-
-<br /> 
-
-[![badge](https://img.shields.io/badge/_SISTEMAS_DE_INFORMAÇÃO_-_ADMINISTRAÇÃO_DE_REDES_-E7ECF0)](https://github.com/adrianoifnmg/AdministracaoRedes)
-
-
-
-**`ETC $> `**
-
-[`Dissertações`](https://github.com/adrianoifnmg/Dissertacoes) 
-
-[`Fundamentos Eletrônica`](https://github.com/adrianoifnmg/FundamentosEletronica) 
-
-[`CPBR 15`](https://github.com/adrianoifnmg/CampusParty15)
-
-[`GeoZone`](https://github.com/adrianoifnmg/geozone)
-
-
-
-
-
 ##
 
 [![My Skills](https://skillicons.dev/icons?i=devto,linux,py,c,js,fastapi,php,mysql,bash,vscode,aws,rabbitmq,nginx,docker,git&theme=light)](#)
