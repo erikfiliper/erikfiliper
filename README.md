@@ -7,7 +7,7 @@
 
 
 
-[<img src="https://osman144.github.io/DragonBall-Z-game/assets/images/goku.gif" width="50" height="50">](#) **Professor de Computação** ` Instituto Federal do Norte de Minas Gerais / IFNMG ` <br />
+[<img src="https://osman144.github.io/DragonBall-Z-game/assets/images/goku.gif" width="50" height="50">](#) **Cursando Bacharel em Sistemas de Informação** ` Instituto Federal do Norte de Minas Gerais / IFNMG ` <br />
 
 [<img src="https://osman144.github.io/DragonBall-Z-game/assets/images/vegeta.gif" width="40" height="40">](#) **Design Gráfico & Web Design** ` EBAC / Escola Britânica de Artes Criaticas & Tecnologia ` <br />
 
