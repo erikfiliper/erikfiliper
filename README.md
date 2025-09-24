@@ -24,4 +24,4 @@
 
 
 
-<a href="#"><img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/dino.gif" align="center"></a>
+<a href="#"><img src="https://github.com/erikfiliper/erikfiliper/blob/main/images/e2ml7a2i009f1.gif?raw=true" align="center"></a>
