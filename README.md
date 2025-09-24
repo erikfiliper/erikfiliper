@@ -24,4 +24,4 @@
 
 
 
-<a href="#"><img src="https://github.com/erikfiliper/erikfiliper/blob/main/images/dragon-ball.gif?raw=true" align="center"></a>
+<a href="#"><img src="https://github.com/erikfiliper/erikfiliper/blob/main/images/dragon-ball.gif?raw=true" align="center" width="50" height="50"></a>
